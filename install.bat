@@ -68,9 +68,9 @@ ECHO.
 setx /M PATH "%PATH%;%ROOTDIR%\bin"
 
 IF %ERRORLEVEL% NEQ 0 (
-  ECHO Houve um problema no procedimento, favor reclamar com Mikael por sua incopetencia
+  ECHO There's been a problem on the installation. Please, complain with Mikael due to his incompetence.
 ) ELSE (
-  ECHO Compilador instalado e adicionado a PATH com sucesso =D
+  ECHO Cygwin was installed and the Path was updated successfully =D
 )
 
 ENDLOCAL
