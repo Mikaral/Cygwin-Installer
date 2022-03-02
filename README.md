@@ -1,4 +1,4 @@
-# MinGW-Installer
-A simple batch file that installs MinGW and updates the PATH.
+# Cygwin Installer
+A simple batch file that installs Cygwin and updates the PATH.
 
-Credits to the [MinGW creators](https://www.mingw-w64.org/) and [Eneerge](https://sites.google.com/site/eneerge/scripts/batchgotadmin) for the BatchGotAdmin script.
+Credits to the [Cygwin creators](https://www.cygwin.com/) and [Eneerge](https://sites.google.com/site/eneerge/scripts/batchgotadmin) for the BatchGotAdmin script.
